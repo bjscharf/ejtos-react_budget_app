@@ -8,7 +8,7 @@ import Budget from './components/Budget';
 // Add code to import the other components here under
 import RemainingBudget from './components/Remaining';
 import ExpenseTotal from './components/ExpenseTotal';
-import AllocationForm from './components/ExpenseTotal';
+import AllocationForm from './components/AllocationForm';
 
 import { AppProvider } from './context/AppContext';
 import ExpenseList from './components/ExpenseList';
